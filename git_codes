@@ -1,0 +1,4 @@
+cd nagu
+git clone
+git add -- all
+git clone
